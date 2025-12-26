@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // ==================== KONFIGURASI WIFI ====================
-const char* ssid = "TD";
-const char* password = "seterahgue";
+const char* ssid = "";
+const char* password = "";
 
 // ==================== KONFIGURASI MQTT ====================
 const char* mqtt_server = "broker.hivemq.com";
